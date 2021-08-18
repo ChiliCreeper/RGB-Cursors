@@ -1,4 +1,5 @@
-# RGB-Cursors
+# ChiliCreeper's RGB Cursor Overhaul Pack for Windows 10
+
 Download data associated with my RGB Cursor Pack for Windows 10
 A month or two ago I decided to spice up my computer by customizing nearly everything I could. Upon realizing I could upload custom cursors, I went to go download an animated RGB pack that was the regular Windows 10 Cursors but RGB-ified. Simple request, except I couldn't find what I was looking for. The only RGB cursors I found were complex and not even close to the Windows 10 Default style.
 
