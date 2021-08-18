@@ -6,7 +6,7 @@ So I decided to make my own. After many hours using a program called RealWorld C
 
 Installation Directions
 
-Download this pack and move it into your cursors folder (SSD --> Windows --> Cursors)
+Download, unzip, and move this pack into your cursors folder (SSD --> Windows --> Cursors)
 
 Open the windows control panel (not settings, the actual app)
 
